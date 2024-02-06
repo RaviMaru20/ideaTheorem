@@ -29,4 +29,5 @@ docker-compose up
 
 ### 7. Happy Coding!:
 
-You are all set! Start coding, and if you have any questions, refer to the documentation or reach out to Ravi Maru (ravimaruu@gmail.com).
+You are all set!
+if you have any questions, reach out to me at  => ravimaruu@gmail.com
