@@ -61,6 +61,7 @@ const RegisterForm = () => {
         setLoading(false);
       }
     } catch (error) {
+      onSubmitProps.resetForm();
       console.error("Error:", error);
       toast.error("An error occurred");
       setLoading(false);
