@@ -18,7 +18,12 @@ Before you begin, make sure you have the following prerequisites installed on yo
 git clone https://github.com/RaviMaru20/ideaTheorem.git
 ```
 
-### 2. Build & Run Docker Containers:
+### 2. Cd in to the directory
+
+```bash
+cd ideaTheorem
+```
+### 3. Build & Run Docker Containers:
 
 ```bash
 docker-compose up
