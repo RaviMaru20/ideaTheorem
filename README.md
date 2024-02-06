@@ -9,7 +9,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 1. [Git](https://git-scm.com/)
 2. [Docker](https://www.docker.com/get-started)
 
-## Setup Instructions for local computer
+## Setup Instructions to run the application locally using Docker
 ## Run below commands and make sure PORT 5173 is not occupied already on your system
 
 ### 1. Clone the Git Repository:
