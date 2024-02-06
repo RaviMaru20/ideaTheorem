@@ -22,12 +22,7 @@ const Register = () => {
           alt="logo"
         />
       </Box>
-      <Box
-        width={isMobile ? "100%" : "502px"}
-        height="820px"
-        m="45px auto"
-        border={1}
-      >
+      <Box width={isMobile ? "100%" : "502px"} height="820px" m="45px auto">
         <Typography
           px={isMobile ? "2rem" : undefined}
           fontWeight="700"
