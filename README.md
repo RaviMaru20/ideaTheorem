@@ -1,5 +1,7 @@
 # ideaTheorem Register Form
 
+2. [Live Deployment](https://ideatheorem.netlify.app/)
+
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed on your system:
@@ -7,7 +9,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 1. [Git](https://git-scm.com/)
 2. [Docker](https://www.docker.com/get-started)
 
-## Setup Instructions
+## Setup Instructions for local computer
 
 ### 1. Clone the Git Repository:
 
@@ -30,4 +32,4 @@ docker-compose up
 ### 7. Happy Coding!:
 
 You are all set!
-if you have any questions, reach out to me at  => ravimaruu@gmail.com
+if you have any questions, reach out to me at => ravimaruu@gmail.com
