@@ -1,0 +1,19 @@
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+}
+
+/* styles.css */
+.success-toast {
+  background-color: green;
+  color: white;
+}
+
+.error-toast {
+  background-color: red;
+  color: white;
+}
