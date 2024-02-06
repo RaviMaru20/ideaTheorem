@@ -1,6 +1,6 @@
 # ideaTheorem Register Form
 
-2. [Live Deployment](https://ideatheorem.netlify.app/)
+[Live Deployment](https://ideatheorem.netlify.app/)
 
 ## Prerequisites
 
